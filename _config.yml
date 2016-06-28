@@ -1,0 +1,14 @@
+layout_spectrum: 0.7369050376582891
+typography_spectrum: 0.42989284405484796
+color:
+  brandStrength: 0.04486253415234387
+  lightness: 0.9592167595401406
+  saturation: 0.6273561969865113
+  rhythmicContrast: 0.3817458066623658
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: IanPsGridTest
